@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: sklearn-evaluation
+Version: 0.5
+Summary: scikit-learn model evaluation made easy: plots, tables andmarkdown reports.
+Home-page: http://github.com/edublancas/sklearn-evaluation
+Author: Eduardo Blancas Reyes
+Author-email: fkq8@blancas.io
+License: MIT
+Download-URL: https://github.com/edublancas/sklearn-evaluation/tarball/0.5
+Description: UNKNOWN
+Keywords: datascience,machinelearning
+Platform: UNKNOWN

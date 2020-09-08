@@ -1,0 +1,26 @@
+Metadata-Version: 2.0
+Name: commis
+Version: 0.4
+Summary: Create command line applications like Django management commands.
+Home-page: https://github.com/bbengfort/commis
+Author: Benjamin Bengfort
+Author-email: benjamin@bengfort.com
+License: Apache
+Download-URL: https://github.com/bbengfort/commis/tarball/v0.4
+Description-Content-Type: UNKNOWN
+Keywords: commis,management,command line interface,argparse
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Requires-Dist: colorama (==0.3.6)
+
+Commis is a library to create command line utilities like git or django-admin where there is a single command that implements many subcommands. Internally, Commis uses the argparse module to create subparsers and parse command line options. However, much like the Django management utility, it exposes an API that allows you to write command classes and create very simple console programs.
+
+For more, please see the full documentation at: http://commis.readthedocs.org/
+
+

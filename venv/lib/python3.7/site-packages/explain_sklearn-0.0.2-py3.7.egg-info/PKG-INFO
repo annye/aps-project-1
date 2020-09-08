@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: explain-sklearn
+Version: 0.0.2
+Summary: Turn any scikit-learn classifier into an interpretable model by using a lightweight wrapper.
+Home-page: https://github.com/lmc2179/explain_sklearn
+Author: Louis Cialdella
+Author-email: louiscialdella@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: interpretable,transparent,machine learning,wrapper
+Platform: UNKNOWN
